@@ -9,6 +9,7 @@ tags: [jekyll, ai]
 This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
+<!--
 ## Futre Home Applications
 
 ### Nextflix movie: Big Bug
@@ -33,7 +34,7 @@ This homework is to propose an innovative project and describe the key features,
   - List all design considerations and the required technologies
 * **系統方塊圖**
   - Draw a System Block Diagram
-
+-->
 ---
 ## 自動變色隔熱紙
 ### 應用功能說明
