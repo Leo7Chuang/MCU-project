@@ -50,6 +50,7 @@ This homework is to propose an innovative project and describe the key features,
 ### 系統方塊圖
 ![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/coaster.jpg?raw=true)
 
+![](https://youtu.be/2yq6dMbwqTI)
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
