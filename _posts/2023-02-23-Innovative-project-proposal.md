@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future Home Applications
+title: Future Home Application
 author: [Leo Chuang]
 category: [Lecture]
 tags: [jekyll, ai]
@@ -8,8 +8,8 @@ tags: [jekyll, ai]
 
 This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
----
 <!--
+---
 ## Futre Home Applications
 
 ### Nextflix movie: Big Bug
@@ -36,26 +36,19 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 -->
 ---
-## 自動變色隔熱紙
+## 智能杯墊
 ### 應用功能說明
-1. 車用、家用玻璃使用
+1. 能記錄飲水量。
+2. 分析飲用的品項。
+3. 給出良好的飲水建議。
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 移動方式：球形滾動
-2. 供電方式：鋰電池
-3. 互動方式：LCD顯示模組 + 語音輸出入 + 肢體動作 + 指頭操作
-4. 作業系統：採用Android OS
 
 **所需相關技術：**
-1. 影像物件識別： 執行 CSL-YOLO模型進行辨識(Jetson Nano)
-2. 語音辨識與輸出： Speech Recognition & Text-To-Speech (AppInventor 2)
-3. 外語教學：AI對答
-4. 指頭操作：觸控 & 吸盤式電磁頭
-5. 互動教具：字卡, 跳棋, ...
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_companion_robot.png?raw=true)
+![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/coaster.jpg?raw=true)
 
 ---
 ## Design Methodology (設計方法)
