@@ -43,11 +43,17 @@ This homework is to propose an innovative project and describe the key features,
 3. 給出良好的飲水建議。
 
 ### 設計考量與相關技術
-**系統設計考量：**<br>
+**系統設計考量：**
+1. 依靠LED供電。
+2. 使用ESP32，結合現有杯墊即可組合而成智能杯墊。
 
 **所需相關技術：**
+1. ESP32韌體撰寫能力
+2. 數值量測、轉換能力
+3. 不同飲品紅外線反射統整
 
 ### 系統方塊圖
+![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/Screenshot%202023-03-02%20at%207.26.26%20PM.png?raw=true)
 ![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/coaster.jpg?raw=true)
 
 <iframe width="924" height="520" src="https://www.youtube.com/embed/2yq6dMbwqTI" title="有了这些，你的保温杯就可以扔了？【值不值得买第404期】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
