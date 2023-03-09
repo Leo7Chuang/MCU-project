@@ -56,7 +56,8 @@ This homework is to propose an innovative project and describe the key features,
 ![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/Screenshot%202023-03-02%20at%207.26.26%20PM.png?raw=true)
 ![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/coaster.jpg?raw=true)
 
-<iframe width="924" height="520" src="https://www.youtube.com/embed/2yq6dMbwqTI" title="有了这些，你的保温杯就可以扔了？【值不值得买第404期】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="909" height="511" src="https://www.youtube.com/embed/kosmvTZ-uOI" title="《值不值得买》第40期：连喝水都变智能的coaster nevermore智能杯垫" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
