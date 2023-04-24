@@ -1,15 +1,13 @@
 ---
 layout: post
-title: ESP32_RobotCar
+title: ESP32 Robot Car
 author: [Leo Chuang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-#藍牙遙控機器人實作
+## 藍牙遙控機器人實作
 This project use Bluetooth or WebUI to control ESP32 Robot Car.
-<!--
----
 
 ## 藍牙遙控機器人
 ### 應用功能說明
@@ -28,6 +26,7 @@ This project use Bluetooth or WebUI to control ESP32 Robot Car.
 
 ### 系統方塊圖
 ![](https://github.com/Leo7Chuang/MCU-project/blob/main/images/Screenshot%202023-04-24%20120613.png?raw=true)
+
 
 ## Code: 
 ```C++
