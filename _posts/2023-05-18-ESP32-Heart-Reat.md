@@ -6,10 +6,10 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-## IMU 實作
+## 心律量測與血氧機感測器概述
 This project use MAX30102 as a sensor to detech the Heart Beat Reat and Blood Oxygen.
 
-## IMU度感測器
+## 心律量測與血氧機感測器
 ### 應用功能說明
 1. Use MAX30102 as a sensor.  
 2. Use ESP32 as a MCU.
