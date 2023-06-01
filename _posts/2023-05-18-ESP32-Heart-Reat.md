@@ -223,7 +223,7 @@ void loop() {
 ```
 
 ## Project Review:
-<iframe width="358" height="636" src="https://www.youtube.com/embed/sy4Y81McjHE" title="ESP32 Heart Beat Rate and Blood Oxygen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="921" height="518" src="https://www.youtube.com/embed/IfmhYmmx4hs" title="ESP32 Heart Rate and Blood Oxygen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
